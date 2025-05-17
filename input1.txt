@@ -1,0 +1,6 @@
+variable x = 2;
+variable y = 3;
+imprimir 'Hola mundo';
+imprimir x;
+x = mayusculas('texto');
+y = invertir('abc');

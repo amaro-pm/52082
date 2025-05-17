@@ -1,0 +1,3 @@
+variable nombre = 'Juan';
+imprimir nombre;
+nombre = mayusculas('juan');

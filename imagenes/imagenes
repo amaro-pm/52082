@@ -1,0 +1,10 @@
+proyecto Node JS Analizador/
+│
+├─ imagenes/
+│   ├─ Entrada.png
+│   └─ terminal.png
+├─ README.md
+├─ index.js
+├─ Analizador.g4
+└─ ...
+

@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "type": "antlr-debug",
+      "request": "launch",
+      "name": "Debug ANTLR Analizador",
+      "grammar": "Analizador.g4",
+      "startRule": "programa",
+      "input": "input1.txt",
+      "printParseTree": true,
+      "visualParseTree": true
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug index.js",
+      "program": "${workspaceFolder}/index.js"
+    }
+  ]
+}
