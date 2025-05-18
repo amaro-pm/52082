@@ -1,3 +1,18 @@
+INSTALACIÓN
+
+Cona el siguiente repositorio: 
+Para ello: 
+    1. Abre una terminal o el Simbolo de Sistemas de su consola (con Windows+R)
+    2. Selecciona y ubicate en la carpeta donde quieras tener el proyecto 
+    3. Copia la siguiente URL, pegala y Ejecutala (con Enter) 
+        git clone https://github.com/amaro-pm/52082.git
+
+    4. Una vez clonado, dirigase a la carpeta de proyecto 
+        cd 52082
+
+
+
+
 INSTRUCCIONES PARA EJECUTAR EL ANALIZADOR 
 
 PRIMER PASO:
