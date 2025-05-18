@@ -1,16 +1,28 @@
 INSTALACIÓN
 
-Cona el siguiente repositorio: 
+Clone el siguiente repositorio: 
 Para ello: 
-    1. Abre una terminal o el Simbolo de Sistemas de su consola (con Windows+R)
-    2. Selecciona y ubicate en la carpeta donde quieras tener el proyecto 
-    3. Copia la siguiente URL, pegala y Ejecutala (con Enter) 
+    1. Copia la URL del Respositorio
+
+        https://github.com/amaro-pm/52082.git
+        
+    2. Selecciona y ubicate en la carpeta donde quieras tener el proyecto (por ejemplo, tu Escritorio o una carpeta de proyectos), como
+        Ejemplo: cd C:\Users\TuUsuario\Desktop
+                 cd D:\UTN\Sintaxis
+        
+    3. Copia el siguiente Comando
     
         git clone https://github.com/amaro-pm/52082.git
 
-    4. Una vez clonado, dirigase a la carpeta de proyecto 
+    4. Pegue y Ejecutelo (con Enter) abriendo una Terminal (en VS CODE) o en la Consola de Comandos, CMD (con WINDOWS+R).
+
+    5. Una vez clonado, encontrara una nueva carpeta llamada
     
         cd 52082
+        
+       con todo el contenido del repositorio dentro de la carpeta donde ejecutaste el comando.
+    
+      
 
 
 
