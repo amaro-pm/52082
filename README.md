@@ -1,6 +1,6 @@
 INSTALACIÓN
 
-Clone el siguiente repositorio: 
+Clone el siguiente repositorio,  
 Para ello: 
 
     1. Abre una Terminal (en VS CODE) o en la Consola de Comandos, CMD (con WINDOWS+R)
