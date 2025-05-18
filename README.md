@@ -2,6 +2,7 @@ INSTALACIÓN
 
 Clone el siguiente repositorio: 
 Para ello: 
+
     1. Abre una Terminal (en VS CODE) o en la Consola de Comandos, CMD (con WINDOWS+R)
         
     2. Selecciona y ubicate en la carpeta donde quieras tener el proyecto (por ejemplo, tu Escritorio o una carpeta de proyectos), como
