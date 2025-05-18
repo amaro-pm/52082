@@ -2,9 +2,7 @@ INSTALACIÓN
 
 Clone el siguiente repositorio: 
 Para ello: 
-    1. Copia la URL del Respositorio
-
-        https://github.com/amaro-pm/52082.git
+    1. Abre una Terminal (en VS CODE) o en la Consola de Comandos, CMD (con WINDOWS+R)
         
     2. Selecciona y ubicate en la carpeta donde quieras tener el proyecto (por ejemplo, tu Escritorio o una carpeta de proyectos), como
         Ejemplo: cd C:\Users\TuUsuario\Desktop
@@ -14,8 +12,8 @@ Para ello:
     
         git clone https://github.com/amaro-pm/52082.git
 
-    4. Pegue y Ejecutelo (con Enter) abriendo una Terminal (en VS CODE) o en la Consola de Comandos, CMD (con WINDOWS+R).
-
+    4. Pegue y Ejecutelo (con Enter) en la Terminal que haya abierto
+    
     5. Una vez clonado, encontrara una nueva carpeta llamada
     
         cd 52082
